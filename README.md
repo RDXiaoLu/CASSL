@@ -12,7 +12,7 @@ Context-Aware Self-Support Learning for Weakly-Supervised Open-World Visual Grou
 ---
 ## Data Preparation
 
-- You will need the following datasets:
+You will need the following datasets:
 - Visual Genome (train/val) for training and validation
 - COCO (train) for training
 - Flickr30k (val) for validation
