@@ -38,3 +38,9 @@ python train_grounding.py -bs 32 -nW 8 -nW_eval 1 -task coco -data_path ../data/
 - [WWbL](https://github.com/talshaharabany/what-is-where-by-looking)
 - Visual Genome, COCO, Flickr30k and ReferIt datasets and their maintainers
 - Open-source deep learning community
+
+## Contact Us
+We welcome contributions to improve this code! Feel free to:
+- Email us directly at [luzhaoxuan@smail.fjut.edu.cn].
+
+---
